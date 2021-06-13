@@ -1,5 +1,6 @@
 <h1 align="center">Hello World 👋, I'm Ankita Kshatriya!</h1>
-<h3 align="center">A keen learner, passionate about exploring new technologies.</h3>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Keen+Learner;Passionate+about+exploring+new+technologies)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita909&label=Profile%20views&color=0e75b6&style=flat" alt="ankita909" /> </p>
 
