@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kshatriy4ankita" target="blank"><img src="https://img.shields.io/twitter/follow/kshatriy4ankita?logo=twitter&style=for-the-badge" alt="kshatriy4ankita" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development and Competitive Programming**
+- 🌱 I’m currently learning **Android Development and Competitive Programming**
 
 - 📫 How to reach me **singhankitasingh066@gmail.com**
 
