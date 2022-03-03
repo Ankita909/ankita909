@@ -12,9 +12,9 @@
 ---> 📫 Reach me through:  **singhankitasingh066@gmail.com**
 
 --->  Connect with me on:
-Linkedin **https://www.linkedin.com/in/ankita-kshatriya-909/**
-Twitter **https://twitter.com/Kshatriy4Ankita**
-Instagram **https://www.instagram.com/ankita.kshatriya02**
+<br>Linkedin **https://www.linkedin.com/in/ankita-kshatriya-909/**</br>
+<br>Twitter **https://twitter.com/Kshatriy4Ankita**</br>
+<br>Instagram **https://www.instagram.com/ankita.kshatriya02**</br>
 
 
 <h3 align="left">Languages and Tools:</h3>
