@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kshatriy4ankita" target="blank"><img src="https://img.shields.io/twitter/follow/kshatriy4ankita?logo=twitter&style=for-the-badge" alt="kshatriy4ankita" /></a> </p>
 
----> 🌱 I'am currently an undergraduate in Computer Science and Engineering![AdorableImportantCaecilian-max-1mb](https://user-images.githubusercontent.com/58108015/156587207-ba9e1c51-e76e-4a45-910c-fe07afc149d2.gif)
+---> 🌱 I'am currently an undergraduate in **Computer Science and Engineering!**
 
 
 ---> 📫 Reach me through:  **singhankitasingh066@gmail.com**
