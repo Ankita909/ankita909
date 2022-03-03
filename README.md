@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **Android Development**
 
 - 📫 How to reach me **singhankitasingh066@gmail.com**
+-    Connect with me on Linkedin **https://www.linkedin.com/in/ankita-kshatriya-909/**
 
 <h1 align="center">Let's Get Connected 🤝 :</h1>
 
